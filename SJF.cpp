@@ -1,5 +1,5 @@
 #include<bits/stdc++.h>
-using namespace std; 
+using namespace std;  
 bool cmp1(tuple<int,int,int> a,tuple<int,int,int> b){
     return (get<2>(a)==get<2>(b)?get<1>(a) < get<1>(b):(get<2>(a)<get<2>(b)));
 }
