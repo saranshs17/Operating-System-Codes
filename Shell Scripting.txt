@@ -1,4 +1,4 @@
-echo "Enter a: "  
+echo "Enter a: "  // Q1
 read a
 echo "Enter b: "
 read b
